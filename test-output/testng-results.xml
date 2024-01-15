@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-13T17:09:29 IST" name="Default suite" finished-at="2024-01-13T17:10:41 IST" duration-ms="72728">
+    <groups>
+    </groups>
+    <test started-at="2024-01-13T17:09:29 IST" name="Default test" finished-at="2024-01-13T17:10:41 IST" duration-ms="72728">
+      <class name="com.demo.FlipkartTest1">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.demo.FlipkartTest1@6392827e]" started-at="2024-01-13T17:09:29 IST" name="beforeClass" finished-at="2024-01-13T17:09:29 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TestOnChrome()[pri:1, instance:com.demo.FlipkartTest1@6392827e]" started-at="2024-01-13T17:09:29 IST" name="TestOnChrome" finished-at="2024-01-13T17:10:04 IST" duration-ms="35366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOnChrome -->
+        <test-method signature="testOnEdge()[pri:2, instance:com.demo.FlipkartTest1@6392827e]" started-at="2024-01-13T17:10:04 IST" name="testOnEdge" finished-at="2024-01-13T17:10:41 IST" duration-ms="36483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnEdge -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.demo.FlipkartTest1@6392827e]" started-at="2024-01-13T17:10:41 IST" name="afterClass" finished-at="2024-01-13T17:10:41 IST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.demo.FlipkartTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
